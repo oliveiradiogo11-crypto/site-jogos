@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    color: rgb(5, 5, 5);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+p{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+u{
+    text-decoration: none;
+
+}
+mark{
+    background-color: blanchedalmond;
+
+}
+
+img{
+    border-radius: 50px;
+}
+
+button{
+    background-color: blue;
+    color: brown;
+    border-radius: 12px;
+
+}
+
+button:haver{
+    color: black;
+    cursor: pointer;
+
+}
+
+a{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: aqua;
+}
+
+/*estiçizacao
+h1{
+text-aling:center;
+}
+*/
+.title-one{
+    text-align: center;
+
+    background-color: cornsilk;
+
+}
+
+
+
+#img-one{
+
+    margin-top: 20px;
+    height: 400px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+
+    gap: 200px;
+    justify-content: center;
+}
